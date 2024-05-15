@@ -765,7 +765,7 @@ function formatScoreText(resultsArray) {
     for (e of resultsArray) {
         formattedScoreText += "\n" + e.join("")
     }
-    formattedScoreText += "\n\n🌐 SlashedWasTaken.github.io/bravewordleabacus 🌐"
+    formattedScoreText += "\n\n🌐 SlashedWasAlsoTaken.github.io/bravewordleabacus 🌐"
 
     return formattedScoreText
 }
