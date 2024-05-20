@@ -667,12 +667,12 @@ function addRow(choiceData, result) {
 
 function showMysterySong(correct) {
     cardBackground.querySelector("#end-card-title").innerText = correct ? "Correct!" + " " : "Game" + " Over!"
-    cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title
+    cardBackground.querySelector('#mystery-song-title').innerText = mysterySong.title + " "
+
+    cardBackground.querySelector('#mystery-song-img').src = mysterySong.cover
     cardBackground.classList.remove('hide')
     searchInput.classList.add('greyed')
     playAgainButton.focus()
-
-
 }
 
 function showShowResult() {
