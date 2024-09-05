@@ -9,7 +9,7 @@ const songTitles = [
 	"(Yes, He Did Help Overthrow Fulgencio Batista, But​) Che Guevara Didn't Wear His Own T​-​Shirts",
 	"Good Atmosphere",
 	"Untitled",
-	"El Capitano (Different Mix)",
+	"El Capitano (different mix)",
 	
 	"I See It Too.",
 	"“But I Won't Always Be on the Receiving End!”",
